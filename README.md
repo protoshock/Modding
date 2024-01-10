@@ -5,3 +5,4 @@ Here you can find informations about modding protoshock with network compatibili
 # Getting the modding tool
 You can find the modding tool in the [Release](https://github.com/protoshock/Modding/releases/tag/v0.4.8)
 
+And documentaition on how to mod here: [Protoshock Modding wiki](https://github.com/protoshock/Modding/wiki) 
